@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>D on Abdullah Nazmus-Sakib</title>
+    <link>http://localhost:61690/tags/d/</link>
+    <description>Recent content in D on Abdullah Nazmus-Sakib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:61690/tags/d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automated Light Control using an LDR Sensor with Arduino</title>
+      <link>http://localhost:61690/blog/ldr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:61690/blog/ldr/</guid>
+      <description>How we built this project using Arduino, LDR sensor, LED</description>
+    </item>
+    
+  </channel>
+</rss>
