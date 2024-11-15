@@ -94,3 +94,4 @@ params:
     - name: "GitHub"
       url: "https://github.com/yourusername"
 
+relativeURLs: true
