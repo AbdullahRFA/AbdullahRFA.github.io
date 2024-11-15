@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Educations on Abdullah Nazmus-Sakib</title>
-    <link>http://localhost:51941/education/</link>
+    <link>http://localhost:1313/education/</link>
     <description>Recent content in Educations on Abdullah Nazmus-Sakib</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:51941/education/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jahangirnagar University । জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</title>
-      <link>http://localhost:51941/education/university/</link>
+      <link>http://localhost:1313/education/university/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51941/education/university/</guid>
+      <guid>http://localhost:1313/education/university/</guid>
       <description>Bachelor of Science - BS, Department of Computer Science and Engineering</description>
     </item>
     
     <item>
       <title>Nawab Siraj-Ud-Dowla Government College, Natore</title>
-      <link>http://localhost:51941/education/college/</link>
+      <link>http://localhost:1313/education/college/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51941/education/college/</guid>
+      <guid>http://localhost:1313/education/college/</guid>
       <description>Higher Secondary Certificate</description>
     </item>
     
     <item>
       <title>Sonadanga Bharatta Alim Madrasah</title>
-      <link>http://localhost:51941/education/school/</link>
+      <link>http://localhost:1313/education/school/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51941/education/school/</guid>
+      <guid>http://localhost:1313/education/school/</guid>
       <description>Bachelor of Science - BS, Department of Computer Science and Engineering</description>
     </item>
     

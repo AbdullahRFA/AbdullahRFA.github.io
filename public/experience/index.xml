@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Experiences on Abdullah Nazmus-Sakib</title>
-    <link>http://localhost:51941/experience/</link>
+    <link>http://localhost:1313/experience/</link>
     <description>Recent content in Experiences on Abdullah Nazmus-Sakib</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:51941/experience/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trainee (Edge_IOT_and_Robotics_JU)</title>
-      <link>http://localhost:51941/experience/trainee_iit/</link>
+      <link>http://localhost:1313/experience/trainee_iit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51941/experience/trainee_iit/</guid>
+      <guid>http://localhost:1313/experience/trainee_iit/</guid>
       <description>IIT, JU, Savar, Dhaka, Bangladesh</description>
     </item>
     
     <item>
       <title>Core Member</title>
-      <link>http://localhost:51941/experience/core_member/</link>
+      <link>http://localhost:1313/experience/core_member/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51941/experience/core_member/</guid>
+      <guid>http://localhost:1313/experience/core_member/</guid>
       <description>IIT, JU, Savar, Dhaka, Bangladesh</description>
     </item>
     
