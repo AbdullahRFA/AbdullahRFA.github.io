@@ -1,7 +1,7 @@
-baseURL: "https://abdullahrfaportfolio.netlify.app"
-languageCode: en-us
-title: Abdullah Nazmus-Sakib
-theme: PaperMod
+baseURL = "https://AbdullahRFA.github.io/"
+languageCode = "en-us"
+title = "Abdullah Nazmus-Sakib"
+theme = "PaperMod"
 
 menu:
   main:
@@ -35,23 +35,17 @@ menu:
       weight: 70
 
 params:
-  # theme
   showToc: true
   TocOpen: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideMeta: false
-
-  # for enchanced SEO
   env: production
-
-  # List View
   hideDescriptionInList: false
 
-  # cover image for posts
   cover:
-    hiddenInList: false # hide on list pages and home
-    hiddenInSingle: false # hide on single page
+    hiddenInList: false
+    hiddenInSingle: false
 
   socialIcons:
     - name: "email"
@@ -63,7 +57,6 @@ params:
     - name: "youtube"
       url: "https://www.youtube.com/c/AbdurRahmanKalim"
 
-  # text search
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -73,18 +66,17 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
-# for search using Fuse.js
 outputs:
   home:
     - HTML
     - RSS
     - JSON
 
-# allow HTML in MD
 markup:
   goldmark:
     renderer:
       unsafe: true
+
 params:
   social:
     - name: "Twitter"
