@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HTML on Abdullah Nazmus-Sakib</title>
+    <link>http://localhost:1313/tags/html/</link>
+    <description>Recent content in HTML on Abdullah Nazmus-Sakib</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Completed 5 project and got a Certificate on Responsive Web Design</title>
+      <link>http://localhost:1313/blog/certification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/certification/</guid>
+      <description>How I completed those projects - Associate Certification Projects (05)</description>
+    </item>
+    <item>
+      <title>✨ Personal Portfolio Website ✨</title>
+      <link>http://localhost:1313/projects/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/portfolio/</guid>
+      <description>A custom Personal Portfolio Website  built by myself using HTML, CSS, JavaScript</description>
+    </item>
+    <item>
+      <title>🚀 Digital Clock Web Application 🎮</title>
+      <link>http://localhost:1313/projects/clock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/clock/</guid>
+      <description>I recently developed a sleek and responsive digital clock using HTML, CSS, and JavaScript. This project showcases not only my skills in front-end development but also my attention to detail in creating an interactive and visually appealing user interface.</description>
+    </item>
+    <item>
+      <title>Age Calculator</title>
+      <link>http://localhost:1313/projects/age/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/age/</guid>
+      <description>I recently completed an interactive Age Calculator web application using HTML, CSS, and JavaScript. This project allows users to calculate their age based on their date of birth</description>
+    </item>
+    <item>
+      <title>Interactive Calculator Web App</title>
+      <link>http://localhost:1313/projects/calculator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/calculator/</guid>
+      <description>I recently Developed a Interactive Calculator Web App using HTML, CSS and JavaScript that allows users to calculate basic operation like  Summation, Substraction, Multiplication, Division, Remainder</description>
+    </item>
+    <item>
+      <title>Random Password Generator with Copy Feature</title>
+      <link>http://localhost:1313/projects/random_pass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/random_pass/</guid>
+      <description>I recently completed a project in JavaScript that enables users to generate a secure, randomized password with just a click! </description>
+    </item>
+    <item>
+      <title>🌦️ Weather App 🌦️</title>
+      <link>http://localhost:1313/projects/weather/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/weather/</guid>
+      <description>I recently Developed a dynamic Weather App using HTML, CSS, JavaScript and API that allows users to check real-time weather information by entering a city name.</description>
+    </item>
+    <item>
+      <title>Todo List App</title>
+      <link>http://localhost:1313/projects/to-do-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/to-do-list/</guid>
+      <description>A Todo list web application built using HTML, CSS, JavaScript</description>
+    </item>
+  </channel>
+</rss>

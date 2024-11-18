@@ -1,4 +1,9 @@
 ---
 title: "Contact"
 ---
-Feel free to reach out at [abdullah@example.com](mailto:abdullah@example.com).
+
+
+- [LinkedIn](https://www.linkedin.com/in/abdullah-nazmus-sakib-04024b261/)
+- [GitHub](https://github.com/AbdullahRFA)
+- [Email](mailto:shakibrybmn@gmail.com)
+- [Twitter](https://x.com/AbdullahRFA)

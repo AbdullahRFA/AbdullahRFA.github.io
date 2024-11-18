@@ -10,6 +10,13 @@ params:
   ShowReadingTime: true
   ShowShareButtons: true
   defaultTheme: "auto" # auto, light, or dark
+  showTagsInMainMenu: true # Show tags in the main menu
+  showSearch: true # Enable search functionality
+  search:
+    enable: true
+    excludeTypes: ["page"] # Exclude certain content types from search
+    placeholder: "Search here..."
+  Blog: "My Blog" # Customize blog section name
 
 menu:
   main:
@@ -19,12 +26,18 @@ menu:
     - name: "Projects"
       url: "/projects/"
       weight: 2
+    - name: "Blog"
+      url: "/blog/"
+      weight: 3
     - name: "About"
       url: "/about/"
-      weight: 3
+      weight: 4
     - name: "Contact"
       url: "/contact/"
-      weight: 4
+      weight: 5
+    - name: "Tags"
+      url: "/tags/"
+      weight: 6
 
 params:
   socialIcons:
@@ -37,3 +50,7 @@ params:
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
+
+taxonomies:
+  tag: "tags" # Enable tag-based taxonomy
+  category: "categories" # Enable category-based taxonomy

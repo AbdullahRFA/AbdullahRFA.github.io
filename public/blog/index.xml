@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Abdullah Nazmus-Sakib</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Abdullah Nazmus-Sakib</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Fingerprint-Based Authentication System with LED Indication and User Identification</title>
+      <link>http://localhost:1313/blog/fringer_print_sensor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/fringer_print_sensor/</guid>
+      <description>How We developed this project using fringer print sensor, arduino?</description>
+    </item>
+    <item>
+      <title>I Completed 5 project and got a Certificate on Responsive Web Design</title>
+      <link>http://localhost:1313/blog/certification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/certification/</guid>
+      <description>How I completed those projects - Associate Certification Projects (05)</description>
+    </item>
+    <item>
+      <title> Smart Motion Detection System with ESP8266 and Blynk Integration</title>
+      <link>http://localhost:1313/blog/pir_sensor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/pir_sensor/</guid>
+      <description>How we built this project using ESP8266 microcontroller, PIR motion sensor, LED, Blynk App</description>
+    </item>
+    <item>
+      <title>Sequential Relay Control for Device Automation</title>
+      <link>http://localhost:1313/blog/relay_module/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/relay_module/</guid>
+      <description>How we built this project using Relay MOdule, AC Motor </description>
+    </item>
+    <item>
+      <title>4x4 Keypad Interface with Arduino for Serial Communication</title>
+      <link>http://localhost:1313/blog/keypad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/keypad/</guid>
+      <description>How we built this project using Arduino, 4*4 Keypad, LED</description>
+    </item>
+    <item>
+      <title>Automated Light Control using an LDR Sensor with Arduino</title>
+      <link>http://localhost:1313/blog/ldr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/ldr/</guid>
+      <description>How we built this project using Arduino, LDR sensor, LED</description>
+    </item>
+    <item>
+      <title>Stepwise Servo Motor Control Using Arduino</title>
+      <link>http://localhost:1313/blog/servo_motor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/servo_motor/</guid>
+      <description>How We developed this project using Servo_Motor, arduino?</description>
+    </item>
+  </channel>
+</rss>
