@@ -1,0 +1,39 @@
+baseURL: "https://example.com/"
+languageCode: "en-us"
+title: "Abdullah Nazmus-Sakib"
+theme: "PaperMod"
+
+params:
+  homeInfoParams:
+    title: "Abdullah Nazmus-Sakib"
+    content: "Tech Enthusiast | Software Developer | IoT Specialist"
+  ShowReadingTime: true
+  ShowShareButtons: true
+  defaultTheme: "auto" # auto, light, or dark
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Projects"
+      url: "/projects/"
+      weight: 2
+    - name: "About"
+      url: "/about/"
+      weight: 3
+    - name: "Contact"
+      url: "/contact/"
+      weight: 4
+
+params:
+  socialIcons:
+    - name: "Github"
+      url: "https://github.com/AbdullahRFA"
+      icon: "fa-brands fa-github"
+    - name: "LinkedIn"
+      url: "https://linkedin.com/in/abdullah-nazmus-sakib"
+      icon: "fa-brands fa-linkedin"
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
