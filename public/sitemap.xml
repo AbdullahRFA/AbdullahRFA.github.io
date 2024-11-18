@@ -2,137 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/fringer_print_sensor/</loc>
+    <loc>https://example.com/blog/fringer_print_sensor/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/certification/</loc>
+    <loc>https://example.com/blog/certification/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/pir_sensor/</loc>
+    <loc>https://example.com/blog/pir_sensor/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/relay_module/</loc>
+    <loc>https://example.com/blog/relay_module/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/keypad/</loc>
+    <loc>https://example.com/blog/keypad/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/ldr/</loc>
+    <loc>https://example.com/blog/ldr/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/servo_motor/</loc>
+    <loc>https://example.com/blog/servo_motor/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/portfolio/</loc>
+    <loc>https://example.com/projects/portfolio/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/clock/</loc>
+    <loc>https://example.com/projects/clock/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/tic-tac-tao/</loc>
+    <loc>https://example.com/projects/tic-tac-tao/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/age/</loc>
+    <loc>https://example.com/projects/age/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/calculator/</loc>
+    <loc>https://example.com/projects/calculator/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/random_pass/</loc>
+    <loc>https://example.com/projects/random_pass/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/weather/</loc>
+    <loc>https://example.com/projects/weather/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/to-do-list/</loc>
+    <loc>https://example.com/projects/to-do-list/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/esp32/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/4x4-keypad-interface/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/iot/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <loc>https://example.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/ac_motor/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/project1/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/api/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/arduino/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/thingspeak/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/automation/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <loc>https://example.com/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/4x4-keypad-interface/</loc>
+    <loc>https://example.com/tags/blynk/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ac_motor/</loc>
+    <loc>https://example.com/tags/certificate/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/api/</loc>
+    <loc>https://example.com/categories/certificate/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/arduino/</loc>
+    <loc>https://example.com/tags/communication/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/automation/</loc>
+    <loc>https://example.com/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://example.com/tags/control/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/blynk/</loc>
+    <loc>https://example.com/tags/css/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.com/tags/developer/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/certificate/</loc>
+    <loc>https://example.com/tags/developer-associate/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/certificate/</loc>
+    <loc>https://example.com/tags/docker/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/communication/</loc>
+    <loc>https://example.com/tags/esp8266/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://example.com/tags/fontawesome/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/control/</loc>
+    <loc>https://example.com/tags/fringer_print/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>https://example.com/tags/frontend-development/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/developer/</loc>
+    <loc>https://example.com/tags/github-actions/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/developer-associate/</loc>
+    <loc>https://example.com/tags/html/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/docker/</loc>
+    <loc>https://example.com/tags/javascript/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/esp8266/</loc>
+    <loc>https://example.com/tags/keypad/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/fontawesome/</loc>
+    <loc>https://example.com/tags/ldr/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/fringer_print/</loc>
+    <loc>https://example.com/tags/led/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/frontend-development/</loc>
+    <loc>https://example.com/tags/motor/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/github-actions/</loc>
+    <loc>https://example.com/tags/nodejs/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>https://example.com/tags/pir/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>https://example.com/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/keypad/</loc>
+    <loc>https://example.com/tags/react/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ldr/</loc>
+    <loc>https://example.com/tags/relay/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/led/</loc>
+    <loc>https://example.com/tags/responsive/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/motor/</loc>
+    <loc>https://example.com/tags/sensors/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/nodejs/</loc>
+    <loc>https://example.com/tags/sequential/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/pir/</loc>
+    <loc>https://example.com/tags/serial/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/react/</loc>
+    <loc>https://example.com/tags/servo/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/relay/</loc>
+    <loc>https://example.com/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/responsive/</loc>
+    <loc>https://example.com/tags/typescript/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/sensors/</loc>
+    <loc>https://example.com/tags/web-development/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/sequential/</loc>
+    <loc>https://example.com/tags/web_development/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/serial/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/servo/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/typescript/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/web-development/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/web_development/</loc>
+    <loc>https://example.com/</loc>
   </url>
 </urlset>
