@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Todo List App | Abdullah Nazmus-Sakib</title>
+<meta name="keywords" content="React, Web Development, Frontend Development, HTML, CSS, JavaScript">
+<meta name="description" content="A Todo list web application built using HTML, CSS, JavaScript">
+<meta name="author" content="">
+<link rel="canonical" href="https://example.com/projects/to-do-list/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d6fcd20a4fb86efa4dfac8ec95da60244cc8871042183da1ef28e3a762ad79c8.css" integrity="sha256-1vzSCk&#43;4bvpN&#43;sjsldpgJEzIhxBCGD2h7yjjp2Ktecg=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://example.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://example.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://example.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://example.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://example.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://example.com/projects/to-do-list/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:url" content="https://example.com/projects/to-do-list/">
+  <meta property="og:site_name" content="Abdullah Nazmus-Sakib">
+  <meta property="og:title" content="Todo List App">
+  <meta property="og:description" content="A Todo list web application built using HTML, CSS, JavaScript">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="projects">
+    <meta property="article:tag" content="React">
+    <meta property="article:tag" content="Web Development">
+    <meta property="article:tag" content="Frontend Development">
+    <meta property="article:tag" content="HTML">
+    <meta property="article:tag" content="CSS">
+    <meta property="article:tag" content="JavaScript">
+    <meta property="og:image" content="https://example.com/project/to-do-list.jpeg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://example.com/project/to-do-list.jpeg">
+<meta name="twitter:title" content="Todo List App">
+<meta name="twitter:description" content="A Todo list web application built using HTML, CSS, JavaScript">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Projects",
+      "item": "https://example.com/projects/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Todo List App",
+      "item": "https://example.com/projects/to-do-list/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Todo List App",
+  "name": "Todo List App",
+  "description": "A Todo list web application built using HTML, CSS, JavaScript",
+  "keywords": [
+    "React", "Web Development", "Frontend Development", "HTML", "CSS", "JavaScript"
+  ],
+  "articleBody": "🔗 GitHub 🔗 Netlify_Live_Demo Description To-Do List Web Application This is a basic To-Do List web application built using HTML, CSS, and JavaScript. The app allows users to add, check off, and delete tasks. Tasks are saved locally in the browser using localStorage, ensuring that tasks persist even after the page is refreshed.\nFeatures Add new tasks by typing in the input field and clicking the “Add” button or pressing Enter. Mark tasks as complete by clicking on the task. Completed tasks will be displayed with a strikethrough effect. Remove tasks by clicking the red delete button (×) next to the task. Tasks are saved in the browser’s localStorage to maintain the to-do list across browser sessions. Technologies Used\nHTML: Provides the structure for the to-do list. CSS: Adds styling and layout, including responsive design features. JavaScript: Handles the dynamic behavior of the to-do list, such as adding, removing, and saving tasks. How to Use Clone or download the repository. Open the index.html file in any browser. Start adding tasks using the input box and clicking “Add” or pressing Enter. Your tasks will be saved automatically in localStorage. ",
+  "wordCount" : "188",
+  "inLanguage": "en",
+  "image":"https://example.com/project/to-do-list.jpeg","datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.com/projects/to-do-list/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Abdullah Nazmus-Sakib",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://example.com/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://example.com/" accesskey="h" title="Abdullah Nazmus-Sakib (Alt + H)">Abdullah Nazmus-Sakib</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://example.com/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://example.com/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://example.com/blog/" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://example.com/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://example.com/contact/" title="Contact">
+                    <span>Contact</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://example.com/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Todo List App
+    </h1>
+    <div class="post-description">
+      A Todo list web application built using HTML, CSS, JavaScript
+    </div>
+    <div class="post-meta">
+
+</div>
+  </header> 
+<figure class="entry-cover"><img loading="eager" src="https://example.com/project/to-do-list.jpeg" alt="">
+        
+</figure>
+  <div class="post-content"><h3 id="-githubhttpsgithubcomabdullahrfato-do-list-js-project">🔗 <a href="https://github.com/AbdullahRFA/To-Do-List-JS-Project">GitHub</a><a hidden class="anchor" aria-hidden="true" href="#-githubhttpsgithubcomabdullahrfato-do-list-js-project">#</a></h3>
+<h3 id="-netlify_live_demohttpsto-do-list-js-project-01netlifyapp">🔗 <a href="https://to-do-list-js-project-01.netlify.app/">Netlify_Live_Demo</a><a hidden class="anchor" aria-hidden="true" href="#-netlify_live_demohttpsto-do-list-js-project-01netlifyapp">#</a></h3>
+<h1 id="description">Description<a hidden class="anchor" aria-hidden="true" href="#description">#</a></h1>
+<h4 id="to-do-list-web-application">To-Do List Web Application<a hidden class="anchor" aria-hidden="true" href="#to-do-list-web-application">#</a></h4>
+<p>This is a basic To-Do List web application built using HTML, CSS, and JavaScript. The app allows users to add, check off, and delete tasks. Tasks are saved locally in the browser using localStorage, ensuring that tasks persist even after the page is refreshed.</p>
+<h2 id="features">Features<a hidden class="anchor" aria-hidden="true" href="#features">#</a></h2>
+<ol>
+<li>Add new tasks by typing in the input field and clicking the “Add” button or pressing Enter.</li>
+<li>Mark tasks as complete by clicking on the task. Completed tasks will be displayed with a strikethrough effect.</li>
+<li>Remove tasks by clicking the red delete button (×) next to the task.</li>
+<li>Tasks are saved in the browser’s localStorage to maintain the to-do list across browser sessions.</li>
+</ol>
+<p>Technologies Used</p>
+<ol>
+<li>HTML: Provides the structure for the to-do list.</li>
+<li>CSS: Adds styling and layout, including responsive design features.</li>
+<li>JavaScript: Handles the dynamic behavior of the to-do list, such as adding, removing, and saving tasks.</li>
+</ol>
+<h2 id="how-to-use">How to Use<a hidden class="anchor" aria-hidden="true" href="#how-to-use">#</a></h2>
+<ol>
+<li>Clone or download the repository.</li>
+<li>Open the index.html file in any browser.</li>
+<li>Start adding tasks using the input box and clicking “Add” or pressing Enter.</li>
+<li>Your tasks will be saved automatically in localStorage.</li>
+</ol>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://example.com/tags/react/">React</a></li>
+      <li><a href="https://example.com/tags/web-development/">Web Development</a></li>
+      <li><a href="https://example.com/tags/frontend-development/">Frontend Development</a></li>
+      <li><a href="https://example.com/tags/html/">HTML</a></li>
+      <li><a href="https://example.com/tags/css/">CSS</a></li>
+      <li><a href="https://example.com/tags/javascript/">JavaScript</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2024 <a href="https://example.com/">Abdullah Nazmus-Sakib</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
