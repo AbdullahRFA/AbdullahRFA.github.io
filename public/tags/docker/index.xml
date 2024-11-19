@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docker on Abdullah Nazmus-Sakib</title>
-    <link>https://example.com/tags/docker/</link>
+    <link>http://localhost:1313/tags/docker/</link>
     <description>Recent content in Docker on Abdullah Nazmus-Sakib</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <atom:link href="https://example.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🚀 Tic-Tac-Toe Game - Enhancing JavaScript Skills 🎮</title>
-      <link>https://example.com/projects/tic-tac-tao/</link>
+      <link>http://localhost:1313/projects/tic-tac-tao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/tic-tac-tao/</guid>
+      <guid>http://localhost:1313/projects/tic-tac-tao/</guid>
       <description>I recently built a fully responsive Tic-Tac-Toe game using HTML, CSS, and JavaScript to improve my skills in JavaScript, specifically in DOM manipulation, event handling, and dynamic UI interactions. </description>
     </item>
   </channel>

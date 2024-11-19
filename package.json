@@ -5,5 +5,5 @@
   "scripts": {
     "deploy": "gh-pages -d public"
   },
-  "homepage": "https://AbdullahRFA.github.io/portfolio-with-hugo"
+  "homepage": "https://AbdullahRFA/AbdullahRFA.github.io"
 }

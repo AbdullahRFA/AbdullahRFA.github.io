@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index, follow">
+<meta name="robots" content="noindex, nofollow">
 <title>Sequential Relay Control for Device Automation | Abdullah Nazmus-Sakib</title>
 <meta name="keywords" content="Sequential, Relay, Arduino, Control, Automation, AC_Motor, Motor">
 <meta name="description" content="How we built this project using Relay MOdule, AC Motor ">
 <meta name="author" content="">
-<link rel="canonical" href="https://example.com/blog/relay_module/">
+<link rel="canonical" href="http://localhost:1313/blog/relay_module/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.d6fcd20a4fb86efa4dfac8ec95da60244cc8871042183da1ef28e3a762ad79c8.css" integrity="sha256-1vzSCk&#43;4bvpN&#43;sjsldpgJEzIhxBCGD2h7yjjp2Ktecg=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://example.com/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://example.com/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://example.com/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://example.com/apple-touch-icon.png">
-<link rel="mask-icon" href="https://example.com/safari-pinned-tab.svg">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="https://example.com/blog/relay_module/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/blog/relay_module/">
 <noscript>
     <style>
         #theme-toggle,
@@ -55,75 +55,7 @@
         }
 
     </style>
-</noscript><meta property="og:url" content="https://example.com/blog/relay_module/">
-  <meta property="og:site_name" content="Abdullah Nazmus-Sakib">
-  <meta property="og:title" content="Sequential Relay Control for Device Automation">
-  <meta property="og:description" content="How we built this project using Relay MOdule, AC Motor ">
-  <meta property="og:locale" content="en-us">
-  <meta property="og:type" content="article">
-    <meta property="article:section" content="blog">
-    <meta property="article:tag" content="Sequential">
-    <meta property="article:tag" content="Relay">
-    <meta property="article:tag" content="Arduino">
-    <meta property="article:tag" content="Control">
-    <meta property="article:tag" content="Automation">
-    <meta property="article:tag" content="AC_Motor">
-    <meta property="og:image" content="https://example.com/blog/relay.jpeg">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://example.com/blog/relay.jpeg">
-<meta name="twitter:title" content="Sequential Relay Control for Device Automation">
-<meta name="twitter:description" content="How we built this project using Relay MOdule, AC Motor ">
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position":  1 ,
-      "name": "Blogs",
-      "item": "https://example.com/blog/"
-    }, 
-    {
-      "@type": "ListItem",
-      "position":  2 ,
-      "name": "Sequential Relay Control for Device Automation",
-      "item": "https://example.com/blog/relay_module/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Sequential Relay Control for Device Automation",
-  "name": "Sequential Relay Control for Device Automation",
-  "description": "How we built this project using Relay MOdule, AC Motor ",
-  "keywords": [
-    "Sequential", "Relay", "Arduino", "Control", "Automation", "AC_Motor", "Motor"
-  ],
-  "articleBody": "Credentials 🔗 Documentation 🎬 Video Project Description This project demonstrates how to control four relays in sequence using a microcontroller. Relays are commonly used to control high-power devices with low-power control signals from microcontrollers like an Arduino. In this project, each relay is connected to a designated digital pin and activated one at a time in a set sequence, making it ideal for applications that need staggered control of multiple devices.\nProject Overview Components Used: 4 Relays: Each relay controls an electrical device connected to the system. Microcontroller (e.g., Arduino): Sends digital signals to control the relay states. Relay Pins Setup: Relay 1: Controlled by pin 3 Relay 2: Controlled by pin 4 Relay 3: Controlled by pin 5 Relay 4: Controlled by pin 6 Working Principle of Relays: Relay Structure: A relay is an electrically operated switch that uses an electromagnet to mechanically switch a circuit on or off. When a low voltage signal is sent to the relay’s input pin (from a microcontroller), it activates the electromagnet within the relay, closing or opening its contacts to control a high-power circuit. Relay Types: The relays in this project are typically normally open (NO) relays, meaning the circuit they control is open by default and closes when the relay is activated (relay pin set to LOW). The relay is turned “on” by setting the digital pin to LOW, and it is turned “off” by setting the pin to HIGH. How the Code Works: Setup: Each relay is defined with a digital pin (3 to 6), and all are configured as outputs. In the setup function, all relays are set to HIGH to ensure they start in the “off” position. Loop: The loop sequentially activates each relay: Relay 4 is activated (set to LOW) while others remain off, and then turned off (set to HIGH) after 2 seconds. Relay 3 follows the same process, turning on for 2 seconds, then off. Relay 2 activates next for 2 seconds, then turns off. Relay 1 stays on for a longer period of 10 seconds before turning off. This sequence can control devices like lights, motors, or pumps in a timed pattern. Applications: Automation Systems: The staggered activation is useful for systems that require sequential operation of different devices, such as conveyor systems, irrigation systems, or even home automation.\nTiming Control: The code can serve as a timer-based control mechanism where devices need to activate in a specific order.\nConclusion This project provides an introduction to relay control, enabling the microcontroller to handle high-power devices safely and effectively.\nsource code: https://lnkd.in/gGFymeKa Group-06(Debashis Dhali.SHAH SULTAN, Abu Hurraira Abid)\nEdge IOT and Robotics course Instructor: Redwan Ferdous, PRINCE2®, CSCM™\n",
-  "wordCount" : "443",
-  "inLanguage": "en",
-  "image":"https://example.com/blog/relay.jpeg","datePublished": "0001-01-01T00:00:00Z",
-  "dateModified": "0001-01-01T00:00:00Z",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://example.com/blog/relay_module/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Abdullah Nazmus-Sakib",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://example.com/favicon.ico"
-    }
-  }
-}
-</script>
+</noscript>
 </head>
 
 <body class="" id="top">
@@ -141,7 +73,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://example.com/" accesskey="h" title="Abdullah Nazmus-Sakib (Alt + H)">Abdullah Nazmus-Sakib</a>
+            <a href="http://localhost:1313/" accesskey="h" title="Abdullah Nazmus-Sakib (Alt + H)">Abdullah Nazmus-Sakib</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -167,32 +99,32 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="https://example.com/" title="Home">
+                <a href="http://localhost:1313/" title="Home">
                     <span>Home</span>
                 </a>
             </li>
             <li>
-                <a href="https://example.com/projects/" title="Projects">
+                <a href="http://localhost:1313/projects/" title="Projects">
                     <span>Projects</span>
                 </a>
             </li>
             <li>
-                <a href="https://example.com/blog/" title="Blog">
+                <a href="http://localhost:1313/blog/" title="Blog">
                     <span>Blog</span>
                 </a>
             </li>
             <li>
-                <a href="https://example.com/about/" title="About">
+                <a href="http://localhost:1313/about/" title="About">
                     <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://example.com/contact/" title="Contact">
+                <a href="http://localhost:1313/contact/" title="Contact">
                     <span>Contact</span>
                 </a>
             </li>
             <li>
-                <a href="https://example.com/tags/" title="Tags">
+                <a href="http://localhost:1313/tags/" title="Tags">
                     <span>Tags</span>
                 </a>
             </li>
@@ -214,7 +146,7 @@
 
 </div>
   </header> 
-<figure class="entry-cover"><img loading="eager" src="https://example.com/blog/relay.jpeg" alt="">
+<figure class="entry-cover"><img loading="eager" src="http://localhost:1313/blog/relay.jpeg" alt="">
         
 </figure>
   <div class="post-content"><h1 id="credentials">Credentials<a hidden class="anchor" aria-hidden="true" href="#credentials">#</a></h1>
@@ -276,20 +208,20 @@ Instructor: Redwan Ferdous, PRINCE2®, CSCM™</p>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://example.com/tags/sequential/">Sequential</a></li>
-      <li><a href="https://example.com/tags/relay/">Relay</a></li>
-      <li><a href="https://example.com/tags/arduino/">Arduino</a></li>
-      <li><a href="https://example.com/tags/control/">Control</a></li>
-      <li><a href="https://example.com/tags/automation/">Automation</a></li>
-      <li><a href="https://example.com/tags/ac_motor/">AC_Motor</a></li>
-      <li><a href="https://example.com/tags/motor/">Motor</a></li>
+      <li><a href="http://localhost:1313/tags/sequential/">Sequential</a></li>
+      <li><a href="http://localhost:1313/tags/relay/">Relay</a></li>
+      <li><a href="http://localhost:1313/tags/arduino/">Arduino</a></li>
+      <li><a href="http://localhost:1313/tags/control/">Control</a></li>
+      <li><a href="http://localhost:1313/tags/automation/">Automation</a></li>
+      <li><a href="http://localhost:1313/tags/ac_motor/">AC_Motor</a></li>
+      <li><a href="http://localhost:1313/tags/motor/">Motor</a></li>
     </ul>
   </footer>
 </article>
     </main>
     
 <footer class="footer">
-        <span>&copy; 2024 <a href="https://example.com/">Abdullah Nazmus-Sakib</a></span> · 
+        <span>&copy; 2024 <a href="http://localhost:1313/">Abdullah Nazmus-Sakib</a></span> · 
 
     <span>
         Powered by

@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Welcome to My Portfolio on Abdullah Nazmus-Sakib</title>
-    <link>https://example.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome to My Portfolio on Abdullah Nazmus-Sakib</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced Fingerprint-Based Authentication System with LED Indication and User Identification</title>
-      <link>https://example.com/blog/fringer_print_sensor/</link>
+      <link>http://localhost:1313/blog/fringer_print_sensor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/fringer_print_sensor/</guid>
+      <guid>http://localhost:1313/blog/fringer_print_sensor/</guid>
       <description>How We developed this project using fringer print sensor, arduino?</description>
     </item>
     <item>
       <title>I Completed 5 project and got a Certificate on Responsive Web Design</title>
-      <link>https://example.com/blog/certification/</link>
+      <link>http://localhost:1313/blog/certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/certification/</guid>
+      <guid>http://localhost:1313/blog/certification/</guid>
       <description>How I completed those projects - Associate Certification Projects (05)</description>
     </item>
     <item>
       <title> Smart Motion Detection System with ESP8266 and Blynk Integration</title>
-      <link>https://example.com/blog/pir_sensor/</link>
+      <link>http://localhost:1313/blog/pir_sensor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/pir_sensor/</guid>
+      <guid>http://localhost:1313/blog/pir_sensor/</guid>
       <description>How we built this project using ESP8266 microcontroller, PIR motion sensor, LED, Blynk App</description>
     </item>
     <item>
       <title>Sequential Relay Control for Device Automation</title>
-      <link>https://example.com/blog/relay_module/</link>
+      <link>http://localhost:1313/blog/relay_module/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/relay_module/</guid>
+      <guid>http://localhost:1313/blog/relay_module/</guid>
       <description>How we built this project using Relay MOdule, AC Motor </description>
     </item>
     <item>
       <title>4x4 Keypad Interface with Arduino for Serial Communication</title>
-      <link>https://example.com/blog/keypad/</link>
+      <link>http://localhost:1313/blog/keypad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/keypad/</guid>
+      <guid>http://localhost:1313/blog/keypad/</guid>
       <description>How we built this project using Arduino, 4*4 Keypad, LED</description>
     </item>
     <item>
       <title>Automated Light Control using an LDR Sensor with Arduino</title>
-      <link>https://example.com/blog/ldr/</link>
+      <link>http://localhost:1313/blog/ldr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/ldr/</guid>
+      <guid>http://localhost:1313/blog/ldr/</guid>
       <description>How we built this project using Arduino, LDR sensor, LED</description>
     </item>
     <item>
       <title>Stepwise Servo Motor Control Using Arduino</title>
-      <link>https://example.com/blog/servo_motor/</link>
+      <link>http://localhost:1313/blog/servo_motor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/servo_motor/</guid>
+      <guid>http://localhost:1313/blog/servo_motor/</guid>
       <description>How We developed this project using Servo_Motor, arduino?</description>
     </item>
     <item>
       <title>✨ Personal Portfolio Website ✨</title>
-      <link>https://example.com/projects/portfolio/</link>
+      <link>http://localhost:1313/projects/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/portfolio/</guid>
+      <guid>http://localhost:1313/projects/portfolio/</guid>
       <description>A custom Personal Portfolio Website  built by myself using HTML, CSS, JavaScript</description>
     </item>
     <item>
       <title>🚀 Digital Clock Web Application 🎮</title>
-      <link>https://example.com/projects/clock/</link>
+      <link>http://localhost:1313/projects/clock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/clock/</guid>
+      <guid>http://localhost:1313/projects/clock/</guid>
       <description>I recently developed a sleek and responsive digital clock using HTML, CSS, and JavaScript. This project showcases not only my skills in front-end development but also my attention to detail in creating an interactive and visually appealing user interface.</description>
     </item>
     <item>
       <title>🚀 Tic-Tac-Toe Game - Enhancing JavaScript Skills 🎮</title>
-      <link>https://example.com/projects/tic-tac-tao/</link>
+      <link>http://localhost:1313/projects/tic-tac-tao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/tic-tac-tao/</guid>
+      <guid>http://localhost:1313/projects/tic-tac-tao/</guid>
       <description>I recently built a fully responsive Tic-Tac-Toe game using HTML, CSS, and JavaScript to improve my skills in JavaScript, specifically in DOM manipulation, event handling, and dynamic UI interactions. </description>
     </item>
     <item>
       <title>Age Calculator</title>
-      <link>https://example.com/projects/age/</link>
+      <link>http://localhost:1313/projects/age/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/age/</guid>
+      <guid>http://localhost:1313/projects/age/</guid>
       <description>I recently completed an interactive Age Calculator web application using HTML, CSS, and JavaScript. This project allows users to calculate their age based on their date of birth</description>
     </item>
     <item>
       <title>Interactive Calculator Web App</title>
-      <link>https://example.com/projects/calculator/</link>
+      <link>http://localhost:1313/projects/calculator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/calculator/</guid>
+      <guid>http://localhost:1313/projects/calculator/</guid>
       <description>I recently Developed a Interactive Calculator Web App using HTML, CSS and JavaScript that allows users to calculate basic operation like  Summation, Substraction, Multiplication, Division, Remainder</description>
     </item>
     <item>
       <title>Random Password Generator with Copy Feature</title>
-      <link>https://example.com/projects/random_pass/</link>
+      <link>http://localhost:1313/projects/random_pass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/random_pass/</guid>
+      <guid>http://localhost:1313/projects/random_pass/</guid>
       <description>I recently completed a project in JavaScript that enables users to generate a secure, randomized password with just a click! </description>
     </item>
     <item>
       <title>🌦️ Weather App 🌦️</title>
-      <link>https://example.com/projects/weather/</link>
+      <link>http://localhost:1313/projects/weather/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/weather/</guid>
+      <guid>http://localhost:1313/projects/weather/</guid>
       <description>I recently Developed a dynamic Weather App using HTML, CSS, JavaScript and API that allows users to check real-time weather information by entering a city name.</description>
     </item>
     <item>
       <title>Todo List App</title>
-      <link>https://example.com/projects/to-do-list/</link>
+      <link>http://localhost:1313/projects/to-do-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/to-do-list/</guid>
+      <guid>http://localhost:1313/projects/to-do-list/</guid>
       <description>A Todo list web application built using HTML, CSS, JavaScript</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://example.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Profile Picture&#34; loading=&#34;lazy&#34; src=&#34;https://example.com/aboutMe/pp.jpeg&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Profile Picture&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/aboutMe/pp.jpeg&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;abdullah-nazmus-sakib&#34;&gt;Abdullah Nazmus-Sakib&lt;/h1&gt;
 &lt;p&gt;Innovative Third-Year Computer Science Student at &lt;strong&gt;Jahangirnagar University&lt;/strong&gt; | Passionate About AI and Software Development | Seeking Internship Opportunities | Skilled in &lt;strong&gt;HTML, CSS, Java, JavaScript, C, C++, Python, and Database Management&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -128,9 +128,9 @@
     </item>
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/abdullah-nazmus-sakib-04024b261/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/AbdullahRFA&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;

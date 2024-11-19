@@ -2,261 +2,261 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Abdullah Nazmus-Sakib</title>
-    <link>https://example.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Abdullah Nazmus-Sakib</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>4x4 Keypad Interface</title>
-      <link>https://example.com/tags/4x4-keypad-interface/</link>
+      <link>http://localhost:1313/tags/4x4-keypad-interface/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/4x4-keypad-interface/</guid>
+      <guid>http://localhost:1313/tags/4x4-keypad-interface/</guid>
       <description></description>
     </item>
     <item>
       <title>AC_Motor</title>
-      <link>https://example.com/tags/ac_motor/</link>
+      <link>http://localhost:1313/tags/ac_motor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/ac_motor/</guid>
+      <guid>http://localhost:1313/tags/ac_motor/</guid>
       <description></description>
     </item>
     <item>
       <title>API</title>
-      <link>https://example.com/tags/api/</link>
+      <link>http://localhost:1313/tags/api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/api/</guid>
+      <guid>http://localhost:1313/tags/api/</guid>
       <description></description>
     </item>
     <item>
       <title>Arduino</title>
-      <link>https://example.com/tags/arduino/</link>
+      <link>http://localhost:1313/tags/arduino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/arduino/</guid>
+      <guid>http://localhost:1313/tags/arduino/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
-      <link>https://example.com/tags/automation/</link>
+      <link>http://localhost:1313/tags/automation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/automation/</guid>
+      <guid>http://localhost:1313/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Blynk</title>
-      <link>https://example.com/tags/blynk/</link>
+      <link>http://localhost:1313/tags/blynk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/blynk/</guid>
+      <guid>http://localhost:1313/tags/blynk/</guid>
       <description></description>
     </item>
     <item>
       <title>Certificate</title>
-      <link>https://example.com/tags/certificate/</link>
+      <link>http://localhost:1313/tags/certificate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/certificate/</guid>
+      <guid>http://localhost:1313/tags/certificate/</guid>
       <description></description>
     </item>
     <item>
       <title>Communication</title>
-      <link>https://example.com/tags/communication/</link>
+      <link>http://localhost:1313/tags/communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/communication/</guid>
+      <guid>http://localhost:1313/tags/communication/</guid>
       <description></description>
     </item>
     <item>
       <title>Control</title>
-      <link>https://example.com/tags/control/</link>
+      <link>http://localhost:1313/tags/control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/control/</guid>
+      <guid>http://localhost:1313/tags/control/</guid>
       <description></description>
     </item>
     <item>
       <title>CSS</title>
-      <link>https://example.com/tags/css/</link>
+      <link>http://localhost:1313/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/css/</guid>
+      <guid>http://localhost:1313/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Developer</title>
-      <link>https://example.com/tags/developer/</link>
+      <link>http://localhost:1313/tags/developer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/developer/</guid>
+      <guid>http://localhost:1313/tags/developer/</guid>
       <description></description>
     </item>
     <item>
       <title>Developer Associate</title>
-      <link>https://example.com/tags/developer-associate/</link>
+      <link>http://localhost:1313/tags/developer-associate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/developer-associate/</guid>
+      <guid>http://localhost:1313/tags/developer-associate/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://example.com/tags/docker/</link>
+      <link>http://localhost:1313/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/docker/</guid>
+      <guid>http://localhost:1313/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>ESP8266</title>
-      <link>https://example.com/tags/esp8266/</link>
+      <link>http://localhost:1313/tags/esp8266/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/esp8266/</guid>
+      <guid>http://localhost:1313/tags/esp8266/</guid>
       <description></description>
     </item>
     <item>
       <title>FontAwesome</title>
-      <link>https://example.com/tags/fontawesome/</link>
+      <link>http://localhost:1313/tags/fontawesome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/fontawesome/</guid>
+      <guid>http://localhost:1313/tags/fontawesome/</guid>
       <description></description>
     </item>
     <item>
       <title>Fringer_Print</title>
-      <link>https://example.com/tags/fringer_print/</link>
+      <link>http://localhost:1313/tags/fringer_print/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/fringer_print/</guid>
+      <guid>http://localhost:1313/tags/fringer_print/</guid>
       <description></description>
     </item>
     <item>
       <title>Frontend Development</title>
-      <link>https://example.com/tags/frontend-development/</link>
+      <link>http://localhost:1313/tags/frontend-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/frontend-development/</guid>
+      <guid>http://localhost:1313/tags/frontend-development/</guid>
       <description></description>
     </item>
     <item>
       <title>GitHub Actions</title>
-      <link>https://example.com/tags/github-actions/</link>
+      <link>http://localhost:1313/tags/github-actions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/github-actions/</guid>
+      <guid>http://localhost:1313/tags/github-actions/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML</title>
-      <link>https://example.com/tags/html/</link>
+      <link>http://localhost:1313/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/html/</guid>
+      <guid>http://localhost:1313/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>https://example.com/tags/javascript/</link>
+      <link>http://localhost:1313/tags/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/javascript/</guid>
+      <guid>http://localhost:1313/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Keypad</title>
-      <link>https://example.com/tags/keypad/</link>
+      <link>http://localhost:1313/tags/keypad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/keypad/</guid>
+      <guid>http://localhost:1313/tags/keypad/</guid>
       <description></description>
     </item>
     <item>
       <title>LDR</title>
-      <link>https://example.com/tags/ldr/</link>
+      <link>http://localhost:1313/tags/ldr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/ldr/</guid>
+      <guid>http://localhost:1313/tags/ldr/</guid>
       <description></description>
     </item>
     <item>
       <title>LED</title>
-      <link>https://example.com/tags/led/</link>
+      <link>http://localhost:1313/tags/led/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/led/</guid>
+      <guid>http://localhost:1313/tags/led/</guid>
       <description></description>
     </item>
     <item>
       <title>Motor</title>
-      <link>https://example.com/tags/motor/</link>
+      <link>http://localhost:1313/tags/motor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/motor/</guid>
+      <guid>http://localhost:1313/tags/motor/</guid>
       <description></description>
     </item>
     <item>
       <title>NodeJS</title>
-      <link>https://example.com/tags/nodejs/</link>
+      <link>http://localhost:1313/tags/nodejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/nodejs/</guid>
+      <guid>http://localhost:1313/tags/nodejs/</guid>
       <description></description>
     </item>
     <item>
       <title>PIR</title>
-      <link>https://example.com/tags/pir/</link>
+      <link>http://localhost:1313/tags/pir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/pir/</guid>
+      <guid>http://localhost:1313/tags/pir/</guid>
       <description></description>
     </item>
     <item>
       <title>React</title>
-      <link>https://example.com/tags/react/</link>
+      <link>http://localhost:1313/tags/react/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/react/</guid>
+      <guid>http://localhost:1313/tags/react/</guid>
       <description></description>
     </item>
     <item>
       <title>Relay</title>
-      <link>https://example.com/tags/relay/</link>
+      <link>http://localhost:1313/tags/relay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/relay/</guid>
+      <guid>http://localhost:1313/tags/relay/</guid>
       <description></description>
     </item>
     <item>
       <title>Responsive</title>
-      <link>https://example.com/tags/responsive/</link>
+      <link>http://localhost:1313/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/responsive/</guid>
+      <guid>http://localhost:1313/tags/responsive/</guid>
       <description></description>
     </item>
     <item>
       <title>Sensors</title>
-      <link>https://example.com/tags/sensors/</link>
+      <link>http://localhost:1313/tags/sensors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/sensors/</guid>
+      <guid>http://localhost:1313/tags/sensors/</guid>
       <description></description>
     </item>
     <item>
       <title>Sequential</title>
-      <link>https://example.com/tags/sequential/</link>
+      <link>http://localhost:1313/tags/sequential/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/sequential/</guid>
+      <guid>http://localhost:1313/tags/sequential/</guid>
       <description></description>
     </item>
     <item>
       <title>Serial</title>
-      <link>https://example.com/tags/serial/</link>
+      <link>http://localhost:1313/tags/serial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/serial/</guid>
+      <guid>http://localhost:1313/tags/serial/</guid>
       <description></description>
     </item>
     <item>
       <title>Servo</title>
-      <link>https://example.com/tags/servo/</link>
+      <link>http://localhost:1313/tags/servo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/servo/</guid>
+      <guid>http://localhost:1313/tags/servo/</guid>
       <description></description>
     </item>
     <item>
       <title>TypeScript</title>
-      <link>https://example.com/tags/typescript/</link>
+      <link>http://localhost:1313/tags/typescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/typescript/</guid>
+      <guid>http://localhost:1313/tags/typescript/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>https://example.com/tags/web-development/</link>
+      <link>http://localhost:1313/tags/web-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/web-development/</guid>
+      <guid>http://localhost:1313/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Web_Development</title>
-      <link>https://example.com/tags/web_development/</link>
+      <link>http://localhost:1313/tags/web_development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/web_development/</guid>
+      <guid>http://localhost:1313/tags/web_development/</guid>
       <description></description>
     </item>
   </channel>

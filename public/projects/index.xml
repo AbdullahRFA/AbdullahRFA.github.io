@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Abdullah Nazmus-Sakib</title>
-    <link>https://example.com/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Abdullah Nazmus-Sakib</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>✨ Personal Portfolio Website ✨</title>
-      <link>https://example.com/projects/portfolio/</link>
+      <link>http://localhost:1313/projects/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/portfolio/</guid>
+      <guid>http://localhost:1313/projects/portfolio/</guid>
       <description>A custom Personal Portfolio Website  built by myself using HTML, CSS, JavaScript</description>
     </item>
     <item>
       <title>🚀 Digital Clock Web Application 🎮</title>
-      <link>https://example.com/projects/clock/</link>
+      <link>http://localhost:1313/projects/clock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/clock/</guid>
+      <guid>http://localhost:1313/projects/clock/</guid>
       <description>I recently developed a sleek and responsive digital clock using HTML, CSS, and JavaScript. This project showcases not only my skills in front-end development but also my attention to detail in creating an interactive and visually appealing user interface.</description>
     </item>
     <item>
       <title>🚀 Tic-Tac-Toe Game - Enhancing JavaScript Skills 🎮</title>
-      <link>https://example.com/projects/tic-tac-tao/</link>
+      <link>http://localhost:1313/projects/tic-tac-tao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/tic-tac-tao/</guid>
+      <guid>http://localhost:1313/projects/tic-tac-tao/</guid>
       <description>I recently built a fully responsive Tic-Tac-Toe game using HTML, CSS, and JavaScript to improve my skills in JavaScript, specifically in DOM manipulation, event handling, and dynamic UI interactions. </description>
     </item>
     <item>
       <title>Age Calculator</title>
-      <link>https://example.com/projects/age/</link>
+      <link>http://localhost:1313/projects/age/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/age/</guid>
+      <guid>http://localhost:1313/projects/age/</guid>
       <description>I recently completed an interactive Age Calculator web application using HTML, CSS, and JavaScript. This project allows users to calculate their age based on their date of birth</description>
     </item>
     <item>
       <title>Interactive Calculator Web App</title>
-      <link>https://example.com/projects/calculator/</link>
+      <link>http://localhost:1313/projects/calculator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/calculator/</guid>
+      <guid>http://localhost:1313/projects/calculator/</guid>
       <description>I recently Developed a Interactive Calculator Web App using HTML, CSS and JavaScript that allows users to calculate basic operation like  Summation, Substraction, Multiplication, Division, Remainder</description>
     </item>
     <item>
       <title>Random Password Generator with Copy Feature</title>
-      <link>https://example.com/projects/random_pass/</link>
+      <link>http://localhost:1313/projects/random_pass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/random_pass/</guid>
+      <guid>http://localhost:1313/projects/random_pass/</guid>
       <description>I recently completed a project in JavaScript that enables users to generate a secure, randomized password with just a click! </description>
     </item>
     <item>
       <title>🌦️ Weather App 🌦️</title>
-      <link>https://example.com/projects/weather/</link>
+      <link>http://localhost:1313/projects/weather/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/weather/</guid>
+      <guid>http://localhost:1313/projects/weather/</guid>
       <description>I recently Developed a dynamic Weather App using HTML, CSS, JavaScript and API that allows users to check real-time weather information by entering a city name.</description>
     </item>
     <item>
       <title>Todo List App</title>
-      <link>https://example.com/projects/to-do-list/</link>
+      <link>http://localhost:1313/projects/to-do-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/to-do-list/</guid>
+      <guid>http://localhost:1313/projects/to-do-list/</guid>
       <description>A Todo list web application built using HTML, CSS, JavaScript</description>
     </item>
   </channel>
